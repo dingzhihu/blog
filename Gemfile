@@ -51,3 +51,5 @@ gem 'capistrano-rails', '~> 1.1.1'
 # Add this if you're using rbenv
 gem 'capistrano-rbenv', github: "capistrano/rbenv"
 
+gem 'httparty'
+
